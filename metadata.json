@@ -1,0 +1,10 @@
+{
+  "name": "NewCekRegoTerminal",
+  "description": "A retro-styled, futuristic crypto analysis dashboard powered by Gemini AI. Optimized for intraday and scalping guidance with neural telemetry.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
